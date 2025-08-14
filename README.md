@@ -1,4 +1,6 @@
-## Ei, eu sou o Pedro! 👋 Mas pode me chamar de Peo
+## Ei, eu sou o Pedro! 👋
+
+### Mas pode me chamar de Peo
 
 Depois de quase 10 anos tentando (e falhando em) gostar de Marketing, decidi largar o osso, voltar às origens¹ e migrar pra área de Dados.
 
